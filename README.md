@@ -2,8 +2,8 @@
 <p align="left">
 
 ![Stats](./profile/stats.svg)
-
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirOven&border_color=00FFFF&border_radius=6&bg_color=030614&title_color=00FFFF&text_color=ffffff&icon_color=EC775C&layout=compact" alt="Top Languages" /></a>
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <!--
 **FreeTurk/FreeTurk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
